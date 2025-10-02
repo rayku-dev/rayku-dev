@@ -46,13 +46,13 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rayder-dev&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rayku-dev&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayder-dev&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayku-dev&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
 
-<img src="https://raw.githubusercontent.com/rayder-dev/rayder-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rayku-dev/rayku-dev/output/snake.svg" alt="Snake animation" />
     
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
