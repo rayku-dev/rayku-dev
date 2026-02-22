@@ -42,13 +42,8 @@
 </div>
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Github Stats***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayku-dev&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
-</div>
-
 
 <img src="https://raw.githubusercontent.com/rayku-dev/rayku-dev/output/snake.svg" alt="Snake animation" />
     
