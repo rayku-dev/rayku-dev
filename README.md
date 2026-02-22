@@ -44,9 +44,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img src="https://raw.githubusercontent.com/rayku-dev/rayku-dev/output/snake.svg" alt="Snake animation" />
-    
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
