@@ -45,8 +45,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rayku-dev&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayku-dev&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
